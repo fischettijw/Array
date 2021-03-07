@@ -42,5 +42,3 @@ arr.push('last - nobody')
     // item2 = arr.get(1);
 arr.delete(1);
 console.log(arr);
-// arr.delete(1);
-// console.log(arr);
