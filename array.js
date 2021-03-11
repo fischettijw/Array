@@ -37,6 +37,8 @@ console.clear();
 arr.push('0 - Joseph Fischetti');
 arr.push('1 - Migual');
 arr.push('2 - Abigail');
+arr.push(123);
+arr.push([1, 2, 3, 4]);
 arr.push('last - nobody')
     // item1 = arr.pop();
     // item2 = arr.get(1);
