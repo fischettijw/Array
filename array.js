@@ -32,15 +32,25 @@ class MyArray {
 }
 
 const arr = new MyArray();
+let item1 = null;
+let item2 = null;
 console.clear();
 
-arr.push('0 - Joseph Fischetti');
-arr.push('1 - Migual');
-arr.push('2 - Abigail');
-arr.push(123);
-arr.push([1, 2, 3, 4]);
-arr.push('last - nobody')
-    // item1 = arr.pop();
-    // item2 = arr.get(1);
-arr.delete(1);
+// arr.push('0 - Joseph Fischetti');
+
+// arr.push('1 - Migual');
+
+// arr.push('2 - Abigail');
+
+// arr.push(123);
+
+// arr.push([1, 2, 3, 4]);
+
+// arr.push('last - nobody')
+// item1 = arr.pop();
+// item2 = arr.get(1);
+// arr.delete(1);
+
+console.log(`item1 = ${item1}`)
+console.log(`item2 = ${item2}`)
 console.log(arr);
