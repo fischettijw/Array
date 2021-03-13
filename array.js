@@ -31,7 +31,7 @@ class MyArray {
     }
 }
 
-const arr = new MyArray();
+const arr = [];
 let item1 = null;
 let item2 = null;
 console.clear();
